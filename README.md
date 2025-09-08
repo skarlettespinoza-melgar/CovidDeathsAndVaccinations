@@ -77,11 +77,11 @@ WHERE cd.continent IS NOT NULL;
 ---
 
 ## 📎 Repository Contents  
-- `CovidDeaths.xlsx` – Raw COVID-19 deaths dataset  
-- `CovidVaccinations.xlsx` – Raw COVID-19 vaccination dataset  
-- `CovidDataAnalysisQueries.sql` – SQL queries for exploration and analysis  
-- `CovidDataETL.ipynb` – Python ETL script for loading data into SQL Server  
+- `CovidDeaths.xlsx` – Raw COVID-19 deaths dataset
+- `CovidProjectAnalysisQueries.sql` – SQL queries for exploration and analysis    
+- `CovidVaccinations.xlsx` – Raw COVID-19 vaccination dataset
 - `README.md` – Project documentation (this file)  
+- `SQL Data Exploration Extract and Upload.ipynb` – Python ETL script for loading data into SQL Server    
 
 ---
 
